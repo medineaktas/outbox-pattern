@@ -1,0 +1,7 @@
+com/example/mailservice/MailServiceApplication.class
+com/example/mailservice/config/KafkaConsumerConfig.class
+com/example/mailservice/config/KafkaProducerConfig.class
+com/example/mailservice/publisher/KafkaPublisher.class
+com/example/mailservice/service/MailService.class
+com/example/mailservice/consumer/KafkaConsumer.class
+com/example/mailservice/model/KafkaPayload.class

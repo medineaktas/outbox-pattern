@@ -1,0 +1,7 @@
+/Users/medineaktas/Desktop/outbox-poc/mail-service/src/main/java/com/example/mailservice/MailServiceApplication.java
+/Users/medineaktas/Desktop/outbox-poc/mail-service/src/main/java/com/example/mailservice/config/KafkaConsumerConfig.java
+/Users/medineaktas/Desktop/outbox-poc/mail-service/src/main/java/com/example/mailservice/config/KafkaProducerConfig.java
+/Users/medineaktas/Desktop/outbox-poc/mail-service/src/main/java/com/example/mailservice/consumer/KafkaConsumer.java
+/Users/medineaktas/Desktop/outbox-poc/mail-service/src/main/java/com/example/mailservice/model/KafkaPayload.java
+/Users/medineaktas/Desktop/outbox-poc/mail-service/src/main/java/com/example/mailservice/publisher/KafkaPublisher.java
+/Users/medineaktas/Desktop/outbox-poc/mail-service/src/main/java/com/example/mailservice/service/MailService.java
